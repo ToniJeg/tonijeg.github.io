@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>Made by Toni Jegorov (tudengikood: 233475IADB)<h1>
+
+	<h2>A little bit about myself:</h2>
+	<table>
+		<tr>
+			<th>Age</th>
+			<th>Sex</th>
+			<th>Current job place</th>
+			<th>Favourite animals</th>
+			<th>Favourite colour</th>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>Male</td>
+			<td>Swissotel Tallinn</td>
+			<td>Cats</td>
+			<td>Green</td>
+		</tr>
+	</table>
+
+	<p>From this small table you could know find some basic things about me. Also I am a fan of football, games and love to study IT! :)</p>
+
+	<p> Here is also a picture of me with my cat:</p>
+	<img src="https://scontent-hel3-1.xx.fbcdn.net/v/t39.30808-6/279563711_5670361252977175_3686508517885913121_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WBnGAT1QwMoAX-mNMWr&_nc_ht=scontent-hel3-1.xx&oh=00_AfDSBr74I0WgfBQmIEIIFzUbxOE6SHn5lE8yDBZ5EaNFZw&oe=65369D11" alt="Me and Watson">
+
+	<p> If you would like to study with me, visit <a href="https://taltech.ee/">this page</a> and make an application.</p>
+</body>
+</html>
